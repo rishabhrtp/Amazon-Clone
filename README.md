@@ -24,5 +24,5 @@ This is a basic front-end clone of the Amazon homepage created using only **HTML
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone-html-css.git
+https://github.com/rishabhrtp/Amazon-Clone/tree/main
 
